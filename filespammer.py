@@ -2,7 +2,7 @@ import os
 
 
 name = ("hello")# name of the files
-text = ("nick is here")# text in the files 
+text = ("name is here")# text in the files 
 
 a = 0
 while True:
